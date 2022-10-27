@@ -18,7 +18,7 @@ $("#pagin").bsPagination({
     nextPrevUse:  true, // show Prev Next Button
     firstLastUse: false, // show First Last Button
 }).on("page-clicked", function(event, pageNum){
-    // call your ajax function here to fetch contens
+    // call your ajax function here to fetch contents
     
     ...
     
